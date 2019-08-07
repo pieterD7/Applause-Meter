@@ -22,9 +22,9 @@ If you see a violation to the privacy law you could issue a complaint with the p
 
 Deutsch
 
-Datenschutz-Bestimmungen Applausmesser.
+Datenschutz-Bestimmungen Applausberechner.
 
-Pieter Hoekstra ist der Entwickler der Applausmesser. Sie können ihn per E-Mail erreichen. Seine Adresse lautet svgpro@protonmail.com.
+Pieter Hoekstra ist der Entwickler der Applausberechner. Sie können ihn per E-Mail erreichen. Seine Adresse lautet svgpro@protonmail.com.
 
 Die App speichert keine persönlichen Daten. Die App teilt keine Daten mit anderen.
 
@@ -64,7 +64,7 @@ La aplicación no almacena datos personales. La aplicación no comparte datos co
 Si ve una violación de la ley de privacidad, puede presentar una queja ante la autoridad de privacidad.
 
 
-Portugues
+Português
 
 Política de Privacidade Medidor de aplauso.
 
@@ -119,7 +119,7 @@ Sovellus ei tallenna henkilökohtaisia ​​tietoja. Sovellus ei jaa tietoja mu
 Jos havaitset tietosuojalain rikkomuksen, voit tehdä valituksen yksityisyysviranomaiselle.
 
 
-Ελληνικά
+Ελληνικα
 
 Πολιτική Απορρήτου Applause Meter.
 
@@ -152,7 +152,7 @@ Az alkalmazás nem tárolja a személyes adatokat. Az alkalmazás nem osztja meg
 Ha az adatvédelmi törvény megsértését észleli, panaszt nyújthat be az adatvédelmi hatósághoz.
 
 
-čeština
+Česky
 
 Zásady ochrany osobních údajů Applause Meter.
 
@@ -174,5 +174,36 @@ Pokud zjistíte porušení zákona o ochraně osobních údajů, můžete podat 
 Ако видите нарушение на закона за поверителност, можете да подадете жалба до органа за поверителност.
 
 
+Íslenska
+
+Friðhelgisstefna Applause Meter.
+
+Pieter Hoekstra er verktaki Applause Meter appsins. Þú getur náð til hans með tölvupósti. Heimilisfang hans er svgpro@protonmail.com.
+
+Forritið geymir ekki persónuleg gögn. Forritið deilir ekki gögnum með öðrum.
+
+Ef þú sérð brot á persónuverndarlögum gætirðu sent kvörtun til persónuverndaryfirvalda.
+
+
+Româna
+
+Politica de confidentialitate Applause Meter.
+
+Pieter Hoekstra este dezvoltatorul aplicației Applause Meter. Puteți ajunge la el prin e-mail. Adresa sa este svgpro@protonmail.com.
+
+Aplicația nu stochează date personale. Aplicația nu partajează date cu alții.
+
+Dacă observați o încălcare a legii privind confidențialitatea, puteți emite o reclamație la autoritatea de confidențialitate.
+
+
+Slovenski
+
+Politika zasebnosti Applause Meter.
+
+Pieter Hoekstra je razvijalec aplikacije Applause Meter. Do njega lahko pridete po e-pošti. Njegov naslov je svgpro@protonmail.com.
+
+Aplikacija ne hrani osebnih podatkov. Aplikacija ne deluje podatkov z drugimi.
+
+Če opazite kršitev zakona o zasebnosti, lahko vložite pritožbo pri organu za zasebnost.
 
 
