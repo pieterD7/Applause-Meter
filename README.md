@@ -17,7 +17,7 @@ Pieter Hoekstra is the developer of the app Applause Meter. You can reach him by
 
 The app doesn't store personal data. The app does not share data with others.
 
-If you see a violation to the privacy law you could issue a complaint with the privacy authority.
+If you see a violation to the privacy law you could file a complaint with the privacy authority.
 
 
 Deutsch
