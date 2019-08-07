@@ -130,7 +130,7 @@ Jos havaitset tietosuojalain rikkomuksen, voit tehdä valituksen yksityisyysvira
 Αν διαπιστώσετε παραβίαση του νόμου περί ιδιωτικού απορρήτου, θα μπορούσατε να απευθύνετε μια καταγγελία στην αρχή απορρήτου.
 
 
-Polsku
+Polski
 
 Polityka prywatności Applause Meter.
 
