@@ -22,9 +22,9 @@ If you see a violation to the privacy law you could issue a complaint with the p
 
 Deutsch
 
-Datenschutz-Bestimmungen Applausberechner.
+Datenschutz-Bestimmungen Applausmesser.
 
-Pieter Hoekstra ist der Entwickler der Applausberechner. Sie können ihn per E-Mail erreichen. Seine Adresse lautet svgpro@protonmail.com.
+Pieter Hoekstra ist der Entwickler der Applausmesser. Sie können ihn per E-Mail erreichen. Seine Adresse lautet svgpro@protonmail.com.
 
 Die App speichert keine persönlichen Daten. Die App teilt keine Daten mit anderen.
 
