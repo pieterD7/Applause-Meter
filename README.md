@@ -6,8 +6,7 @@ Pieter Hoekstra is de ontwikkelaar van de app Applaus Meter. U kunt hem bereiken
 
 De app slaat geen persoonlijke informatie op. De app deelt gegevens niet met anderen.
 
-Als u een schending van uw privacy vermoed kunt u een klacht indienen bij de privacy authoriteit.
-
+Als u een schending van uw privacy vermoedt kunt u een klacht indienen bij de Autoriteit Persoonsgegevens.
 
 English
 
